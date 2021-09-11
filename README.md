@@ -8,4 +8,6 @@ I wanted to improve my fullstack development however I didn't have time to learn
 
 For the backbone of the website, I watched and followed a few youtube tutorials, with freeCodeCamp and Dennis Ivy in particular. I then changed and added additional features to suit the project better.
 
+Check out the instagram page for 3Dprintz4u at: 3d_prints_4u
+
 HC
